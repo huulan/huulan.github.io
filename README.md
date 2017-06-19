@@ -1,1 +1,1 @@
-# huulan.github.io
+https://github.com/huulan/huulan.github.io.git
